@@ -1,5 +1,6 @@
-int main() {
+int main(){	                    
   Table tb;
+                          
   tb.show();
   tb.addRow();
   tb.show();
@@ -11,8 +12,7 @@ int main() {
   tb1.set(2,2,"hello");
   tb1.show();
   tb1.delRow(1);
+  tb1.show();                              //asdasdasdasdadasd
+  tb1.delColumn(1);//sadasdasdada
   tb1.show();
-  tb1.delColumn(1);
-  tb1.show();
-  return 0;
-}
+  return 0;//asdasdasdasdasdasdsadasasdasdad}
