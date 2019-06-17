@@ -1,4 +1,5 @@
-class Table {
+class Table 
+{
 public:
 
   void show();
